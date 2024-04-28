@@ -1,0 +1,46 @@
+.up {
+    background-color: #222630;
+    height: 100px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    width: 200px;
+    height: 80px;
+} 
+.link{
+    text-decoration: none;
+    color: #e2e2e2;
+}
+.link:hover{
+    color: white;
+}
+.active {
+    color: #1a9fff;
+    text-decoration: none;
+}
+h2 {
+    height: 15px;
+    margin-right: 1vw;
+}
+.downanim {
+    background-color: #1a9fff;
+    border-radius: 40%;
+    width: 60px;
+    height: 4px;
+    animation-duration: 1s;
+    
+}
+.net{
+    background-color: none;
+}
+.onColumn{
+    display: flex;
+    flex-direction: column;
+}
+button {
+    background-color: none;
+
+}
